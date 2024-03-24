@@ -4,7 +4,11 @@
 
 <h3 align="center">Systems Engineering student, my specialization lies in backend development and data architecture. I am distinguished by my commitment to continuously wanting to expand my horizons of knowledge and conquer new challenges within the field.</h3>
 
+<br>
+
 - 📫 How to reach me **juanjosedelapava1@gmail.com**
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
