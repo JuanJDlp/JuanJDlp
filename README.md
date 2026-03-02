@@ -2,7 +2,7 @@
 
 <br>
 
-<h3 align="center">Systems Engineering student, my specialization lies in backend development and data architecture. I am distinguished by my commitment to continuously wanting to expand my horizons of knowledge and conquer new challenges within the field.</h3>
+<h3 align="center">System Engineer, my specialization lies in backend development, dev ops and software architecture. I am distinguished by my commitment to continuously wanting to expand my horizons of knowledge and conquer new challenges within the field.</h3>
 
 <div id="badges" align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Technical--Proficiency">
